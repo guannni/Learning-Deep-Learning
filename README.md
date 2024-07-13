@@ -25,4 +25,4 @@ The dates recorded are for personal use.
 1.  [Intro](https://cloud.tencent.com/developer/article/1030365)
 2.  [MongoDB](https://www.runoob.com/mongodb/mongodb-databases-documents-collections.html)  - 20240712
 ### 3. Data Mining
-1.  [Tutorial](https://books.google.co.jp/books?id=cfNICAAAQBAJ&pg=PA1&hl=zh-CN&source=gbs_toc_r&cad=2#v=onepage&q&f=true)
+1.  [Tutorial by Aggarwal](https://books.google.co.jp/books?id=cfNICAAAQBAJ&pg=PA1&hl=zh-CN&source=gbs_toc_r&cad=2#v=onepage&q&f=true)
