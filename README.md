@@ -9,7 +9,8 @@ The dates recorded are for personal use.
 ## Before starting
 ### 1. Git
 1.  [Tutorial by LIAO Xuefeng](https://www.liaoxuefeng.com/wiki/896043488029600)  - 20240628
-
+   
+    [Command](https://www.bookstack.cn/read/git-tutorial/docs-basic.md);
     [Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 2.  [Reading material 1](https://waynerv.com/posts/git-undo-intro/#%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B)
 3.  [VS code setting](https://blog.csdn.net/weixin_48024605/article/details/136037857)
