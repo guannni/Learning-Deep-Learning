@@ -8,7 +8,7 @@ The dates recorded are for personal use.
 
 ## Before starting
 ### 1. Git
-1.  [Tutorial by LIAO Xuefeng](https://www.liaoxuefeng.com/wiki/896043488029600)  - 20240628
+1.  [Tutorial by LIAO Xuefeng](https://www.liaoxuefeng.com/wiki/896043488029600)  - 20240628 - 20240715
    
     [Command](https://www.bookstack.cn/read/git-tutorial/docs-basic.md);
     [Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
