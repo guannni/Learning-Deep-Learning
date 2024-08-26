@@ -31,3 +31,4 @@ The dates recorded are for personal use.
       2.1 sklearn official guidance:[1.](https://github.com/apachecn/sklearn-doc-zh/tree/master);[2](https://scikit-learn.cn/stable/);
       2.2 [someone's note](https://tianxuzhang.github.io/introduction-to-machine-learning/README.html)
       2.3 [deeplearning tutorial](https://www.bookstack.cn/books/Deeplearning-Algorithms-tutorial)
+      2.4 [time series](https://www.kaggle.com/datasets/kashnitsky/mlcourse)
