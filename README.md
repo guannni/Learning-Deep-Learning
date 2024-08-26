@@ -27,3 +27,7 @@ The dates recorded are for personal use.
 2.  [MongoDB](https://www.runoob.com/mongodb/mongodb-databases-documents-collections.html)  - 20240712
 ### 3. Data Mining
 1.  Textbook by Aggarwal (see the file attached)
+2.  random reading
+      2.1 sklearn official guidance:[1.](https://github.com/apachecn/sklearn-doc-zh/tree/master);[2](https://scikit-learn.cn/stable/);
+      2.2 [someone's note](https://tianxuzhang.github.io/introduction-to-machine-learning/README.html)
+      2.3 [deeplearning tutorial](https://www.bookstack.cn/books/Deeplearning-Algorithms-tutorial)
